@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GzjXBV4KlXfyM5i3lia+15Ev3bKcjFrmVUsGuBP2yCM=",
+  "Source": "FoodApp.Services.CouponAPI",
+  "BasePath": "_content/FoodApp.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
